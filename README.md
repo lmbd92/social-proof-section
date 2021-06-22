@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section
+# Frontend Mentor - Social proof section [Direct Link](https://lmbd92.github.io/social-proof-section/)
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
